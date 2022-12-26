@@ -1,11 +1,16 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  my name is Johnny, welcome!!
-</h1>
+<body>
+  ![](https://github.com/user/banner.png)
+  <h1>
+    Hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Johnny!!
+  </h1>
+  <p>
+    I am passionate about data science and machine learning, with hobbies in developing my programming skills further.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100px"/>
 </div>
+  <img src="https://media.giphy.com/media/Vn9JVHDAzYw1O/giphy.gif" width="100px"/>
+</div>
+</body>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
